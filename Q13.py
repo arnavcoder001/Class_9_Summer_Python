@@ -1,5 +1,5 @@
 #This code checks whether the number is Armstrong or not.
-num = int(input("Enter a 3-digit number: "))
+num = int(input("Enter a 3-digit number to check if a number is Armstrong or not: "))
 
 a = num // 100
 b = (num // 10) % 10

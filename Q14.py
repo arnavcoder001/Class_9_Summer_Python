@@ -1,5 +1,5 @@
 #This code finds the factorial number.
-num = int(input("Enter a number to find its factorial: "))
+num = int(input("Enter a number to find its factorial number: "))
 
 factorial = 1
 

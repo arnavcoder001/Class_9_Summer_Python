@@ -1,4 +1,5 @@
-num=int(input("Enter a number: "))
+#This code display weekdays according to number(1-7) 
+num=int(input("Enter the number(1-7) to get week day: "))
 
 if num == 1:
     print("Monday")
